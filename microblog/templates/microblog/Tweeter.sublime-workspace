@@ -1,0 +1,803 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"my",
+				"my_profile"
+			],
+			[
+				"num",
+				"num_defenders"
+			],
+			[
+				"dead",
+				"dead_defenders"
+			],
+			[
+				"su",
+				"success_url"
+			],
+			[
+				"reverse",
+				"reverse_lazy"
+			],
+			[
+				"Crea",
+				"CreateView"
+			],
+			[
+				"revers",
+				"reverse_lazy"
+			],
+			[
+				"num_",
+				"num_attackers"
+			],
+			[
+				"ques",
+				"Question"
+			],
+			[
+				"Boo",
+				"BookListView"
+			],
+			[
+				"text_",
+				"text_to_number"
+			],
+			[
+				"de",
+				"DetailView"
+			],
+			[
+				"Ch",
+				"ChoiceInline"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "profile_detail.html",
+			"settings":
+			{
+				"buffer_size": 1320,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_post.html",
+			"settings":
+			{
+				"buffer_size": 1032,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mtheobald/django/twitterclone/microblog/models.py",
+			"settings":
+			{
+				"buffer_size": 719,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "follow_success.html",
+			"settings":
+			{
+				"buffer_size": 244,
+				"line_ending": "Unix",
+				"name": "{% extends 'base.html' %}"
+			}
+		},
+		{
+			"file": "/Users/mtheobald/django/twitterclone/twitterclone/settings.py",
+			"settings":
+			{
+				"buffer_size": 2932,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mtheobald/django/twitterclone/microblog/views.py",
+			"settings":
+			{
+				"buffer_size": 2320,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "post_form.html",
+			"settings":
+			{
+				"buffer_size": 394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "profile_form.html",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mtheobald/django/twitterclone/microblog/urls.py",
+			"settings":
+			{
+				"buffer_size": 1007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mtheobald/django/twitterclone/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 4560,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "post_list.html",
+			"settings":
+			{
+				"buffer_size": 628,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mtheobald/django/twitterclone/templates/registration/registration_form.html",
+			"settings":
+			{
+				"buffer_size": 242,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mtheobald/django/twitterclone/templates/registration/registration_complete.html",
+			"settings":
+			{
+				"buffer_size": 225,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myfeed.html",
+			"settings":
+			{
+				"buffer_size": 173,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mtheobald/django/twitterclone/microblog/templates/microblog/web_application_info.txt",
+		"/Users/mtheobald/django/suggestionbox/kaizen/templates/kaizen/category_list.html",
+		"/Users/mtheobald/django/catalog/inventory/templates/inventory/category_detail.html",
+		"/Users/mtheobald/django/catalog/inventory/templates/inventory/item_confirm_delete.html",
+		"/Users/mtheobald/django/catalog/inventory/templates/inventory/success.html",
+		"/Users/mtheobald/django/catalog/inventory/urls.py",
+		"/Users/mtheobald/django/catalog/inventory/views.py",
+		"/Users/mtheobald/django/catalog/inventory/templates/inventory/category_list.html",
+		"/Users/mtheobald/django/catalog/inventory/templates/inventory/category_form.html",
+		"/Users/mtheobald/django/catalog/inventory/templates/inventory/item_form.html",
+		"/Users/mtheobald/django/catalog/inventory/templates/inventory/item_delete.html",
+		"/Users/mtheobald/django/catalog/inventory/templates/inventory/category_delete.html",
+		"/Users/mtheobald/django/catalog/inventory/templates/inventory/category_confirm_delete.html",
+		"/Users/mtheobald/django/catalog/inventory/templates/inventory/item_detail.html",
+		"/Users/mtheobald/django/suggestionbox/kaizen/templates/kaizen/idea_form.html",
+		"/Users/mtheobald/django/suggestionbox/kaizen/templates/kaizen/idea_list.html",
+		"/Users/mtheobald/django/suggestionbox/templates/signin_form.html",
+		"/Users/mtheobald/django/suggestionbox/kaizen/templates/kaizen/comment_form.html",
+		"/Users/mtheobald/django/suggestionbox/suggestionbox/settings.py",
+		"/Users/mtheobald/django/suggestionbox/kaizen/models.py",
+		"/Users/mtheobald/django/suggestionbox/kaizen/urls.py",
+		"/Users/mtheobald/django/suggestionbox/kaizen/templates/kaizen/success.html",
+		"/Users/mtheobald/django/suggestionbox/kaizen/templates/kaizen/idea_confirm_delete.html",
+		"/Users/mtheobald/django/suggestionbox/kaizen/views.py",
+		"/Users/mtheobald/django/suggestionbox/kaizen/templates/kaizen/idea_detail.html",
+		"/Users/mtheobald/django/suggestionbox/kaizen/forms.py",
+		"/Users/mtheobald/django/suggestionbox/suggestionbox/urls.py",
+		"/Users/mtheobald/Desktop/CS3005/Risk/dice.h",
+		"/Users/mtheobald/Desktop/CS3005/Risk/main.cpp",
+		"/Users/mtheobald/django/suggestionbox/templates/base.html",
+		"/Users/mtheobald/django/suggestionbox/templates/profile_detail.html",
+		"/Users/mtheobald/Desktop/CS3005/Risk/dice.cpp",
+		"/Users/mtheobald/Desktop/CS3005/Risk/risk.cpp",
+		"/Users/mtheobald/Desktop/CS3005/Exponent Quiz/main.cpp",
+		"/Users/mtheobald/Desktop/CS3005/dice.cpp",
+		"/Users/mtheobald/Desktop/CS3005/main.cpp",
+		"/Users/mtheobald/Desktop/CS3005/dice.h",
+		"/Users/mtheobald/django/catalog/inventory/templates/inventory/helperform.html",
+		"/Users/mtheobald/django/catalog/inventory/models.py",
+		"/Users/mtheobald/django/catalog/inventory/templates/inventory/_catDetail.html",
+		"/Users/mtheobald/django/catalog/templates/base.html",
+		"/Users/mtheobald/django/catalog/catalog/settings.py",
+		"/Users/mtheobald/django/catalog/inventory/templates/inventory/base.html",
+		"/Users/mtheobald/django/catalog/catalog/urls.py",
+		"/Users/mtheobald/C++/Create Image file/just some notes.cpp",
+		"/Users/mtheobald/Desktop/CS3005/Question.cpp",
+		"/Users/mtheobald/Desktop/CS3005/question.h",
+		"/Users/mtheobald/Desktop/<VirtualHost *:80>",
+		"/Users/mtheobald/Desktop/CS3005/web_info.txt",
+		"/Users/mtheobald/Downloads/time-difference-calculator.php",
+		"/Users/mtheobald/Desktop/dns_info.txt",
+		"/Users/mtheobald/Desktop/CS3005/Exponent Quiz.cpp",
+		"/Users/mtheobald/Desktop/CS3005/Exponent Quiz.hpp",
+		"/Users/mtheobald/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/mtheobald/C++/Exponents Quiz/question.cpp",
+		"/Users/mtheobald/C++/Exponents Quiz/question.h",
+		"/Users/mtheobald/C++/Exponents Quiz/exponent_quiz.cpp",
+		"/Users/mtheobald/django/CS4990/blog/blogapp/hello world.cpp",
+		"/Users/mtheobald/django/CS4990/formstut/form3/templates/form3/song_form.html",
+		"/Users/mtheobald/django/CS4990/formstut/form3/models.py",
+		"/Users/mtheobald/django/CS4990/blog/blogapp/views.py",
+		"/Users/mtheobald/django/CS4990/formstut/form1/views.py",
+		"/Users/mtheobald/django/CS4990/blog/blogapp/Python regular expression tutorial.py",
+		"/Users/mtheobald/C++/Create Image file/web_info.txt",
+		"/Users/mtheobald/django/blog/CS4990/blog/blog/car.py",
+		"/Users/mtheobald/django/portfolio/casestudy/templates/casestudy/index.html",
+		"/Users/mtheobald/django/portfolio/templates/base.html",
+		"/Users/mtheobald/Desktop/smtp_info.txt",
+		"/Users/mtheobald/Desktop/system_install_info.txt",
+		"/Users/mtheobald/dns_info.txt",
+		"/Users/mtheobald/django/portfolio/casestudy/templates/casestudy/detail.html",
+		"/Users/mtheobald/django/portfolio/portfolio/settings.py",
+		"/Users/mtheobald/C++/Create Image file/main.cpp",
+		"/Users/mtheobald/C++/Create Image file/dns.txt",
+		"/Users/mtheobald/C++/Create Image file/Image.cpp",
+		"/Users/mtheobald/C++/Create Image file/imageh.h",
+		"/Users/mtheobald/C++/Create Image file/notes",
+		"/Users/mtheobald/django/lib/python2.7/site-packages/django/contrib/admin/templates/admin/base_site.html",
+		"/Users/mtheobald/django/lib/python2.7/site-packages/django/contrib/admin/templates/admin/base.html",
+		"/Users/mtheobald/django/portfolio/casestudy/admin.py",
+		"/Users/mtheobald/django/portfolio/casestudy/models.py",
+		"/Users/mtheobald/django/portfolio/casestudy/urls.py",
+		"/Users/mtheobald/django/portfolio/casestudy/views.py",
+		"/Users/mtheobald/django/portfolio/portfolio/urls.py",
+		"/Users/mtheobald/django/mysite/polls/admin.py",
+		"/Users/mtheobald/django/mysite/mysite/settings.py",
+		"/Users/mtheobald/django/mysite/polls/models.py",
+		"/Users/mtheobald/C++/something.cpp",
+		"/Users/mtheobald/C++/super.cpp",
+		"/Users/mtheobald/C++/firstprogram.h",
+		"/Users/mtheobald/Desktop/Permissions",
+		"/Users/mtheobald/Downloads/3100 find user_group",
+		"/Users/mtheobald/django/django/mysite/polls/models.py",
+		"/Users/mtheobald/django/django/mysite/manage.py",
+		"/Users/mtheobald/Desktop/Classnotes.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"edit",
+			"k",
+			"form_valid",
+			"profile",
+			"k",
+			"attackers",
+			"num_attackers",
+			"srand",
+			"dele",
+			"h6",
+			"idea",
+			"a",
+			"form",
+			"reverse",
+			"comment",
+			"url",
+			"new",
+			"result",
+			"id_musician",
+			"action",
+			"status",
+			"main",
+			"Ice King",
+			"iceking"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "profile_detail.html",
+					"settings":
+					{
+						"buffer_size": 1320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								693,
+								693
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_post.html",
+					"settings":
+					{
+						"buffer_size": 1032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								717,
+								717
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/mtheobald/django/twitterclone/microblog/models.py",
+					"settings":
+					{
+						"buffer_size": 719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "follow_success.html",
+					"settings":
+					{
+						"buffer_size": 244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{% extends 'base.html' %}",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/mtheobald/django/twitterclone/twitterclone/settings.py",
+					"settings":
+					{
+						"buffer_size": 2932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1112,
+								1112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/mtheobald/django/twitterclone/microblog/views.py",
+					"settings":
+					{
+						"buffer_size": 2320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1804,
+								1804
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 482.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "post_form.html",
+					"settings":
+					{
+						"buffer_size": 394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								4
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "profile_form.html",
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								271
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/mtheobald/django/twitterclone/microblog/urls.py",
+					"settings":
+					{
+						"buffer_size": 1007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								873,
+								873
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/mtheobald/django/twitterclone/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 4560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2744,
+								2744
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "post_list.html",
+					"settings":
+					{
+						"buffer_size": 628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/mtheobald/django/twitterclone/templates/registration/registration_form.html",
+					"settings":
+					{
+						"buffer_size": 242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/mtheobald/django/twitterclone/templates/registration/registration_complete.html",
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "myfeed.html",
+					"settings":
+					{
+						"buffer_size": 173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 158.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"base.html",
+				"templates/base.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true
+}

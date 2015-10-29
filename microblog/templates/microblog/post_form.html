@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+
+
+{% block 'title' %}{% if post %}Update{% else %}Add New{% endif %} Twitt{% endblock %}
+{% block content %}
+
+<h3>{% if post %}Update{% else %}Add{% endif %} Twitt</h3>
+
+<form method="post" action=".">
+{% csrf_token %}
+{{ form|crispy }}
+<button type="submit">Twitt</button>
+</form>
+
+
+{% endblock %}

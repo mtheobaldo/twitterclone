@@ -1,0 +1,23 @@
+
+  	
+<!-- 	
+  	<p><small><a class="bold" href="{% url 'microblog:profiledetail' post.profile.id %}">{{ post.profile }}</a> Twitted on {{ post.pub_date|date:"m-d-Y" }}</small></p>
+  	<div class="well">{{ post.body }}</div>
+
+ -->
+
+{% load thumbnail %}
+<div class="postdetail">
+    {% if post.profile.profile_picture %} 
+        {% thumbnail post.profile.profile_picture "60x60" crop="center" as im %}
+        <img src="{{ im.url }}" width="60" height="60" class="profilepic">
+        {% endthumbnail %}
+    {% else %}        
+      <img src="http://vignette2.wikia.nocookie.net/olympic-survival-series-org/images/c/ce/Question-mark-face.jpg/revision/latest?cb=20141228100734" width="60" height="60" class="profilepic" >
+    {% endif %}
+    
+    <a href="{% url 'microblog:profiledetail' post.profile.user.id %}">@{{ post.profile.user.username }}</a> | <span class="pubdate">Twitted on {{ post.pub_date|date:"d M, Y" }} at {{ post.pub_date|date:"g:i a"}}</span>
+    <div class="well postbody">
+        {{ post.body }}
+    </div>
+</div>

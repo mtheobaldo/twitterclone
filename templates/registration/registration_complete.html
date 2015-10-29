@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% load i18n %}
+
+{% block content %}
+<p>{% trans "You are now registered and logged in." %}</p>
+<a class="btn btn-default" href="{% url 'microblog:profilecreate' %}">Set Up Profile</a>
+{% endblock %}

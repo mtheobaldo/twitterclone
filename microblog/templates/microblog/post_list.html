@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block 'title' %}Tweeter{% endblock 'title' %}
+
+{% block content %}
+
+  <h1>What's new</h1>
+  {% if user.is_authenticated %}
+  <div class="party">
+  <a style="float:right" class="btn btn-default" href="{% url 'microblog:newtwitt' %}">New Twitt!</a>
+  <a style="float:left" class="btn btn-default" href="{% url 'microblog:myfeed' %}">Personal Feed</a>
+
+  </div>
+      	<hr class="postdivider">
+  </br>
+  {% endif %}
+    {% for post in object_list %}
+  	{% include 'microblog/_post.html' %}
+  	  {% if not forloop.last %}
+    	<hr class="postdivider">
+      {% endif %}
+  {% endfor %}
+
+
+
+{% endblock %}

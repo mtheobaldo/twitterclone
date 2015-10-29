@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Personal Feed</h2>
+
+{% for post in post_list %}
+	{% include "microblog/_post.html" %}
+{% endfor %}
+
+{% endblock content %}

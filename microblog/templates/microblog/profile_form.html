@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+
+
+{% block 'title' %}{% if profile %}Update{% else %}Create{% endif %} Your Profile{% endblock %}
+{% block content %}
+
+<h3>{% if profile %}Update{% else %}Create{% endif %} Profile</h3>
+
+<form method="post" action="." enctype="multipart/form-data">
+{% csrf_token %}
+{{ form|crispy }}
+<button type="submit">Looks Good</button>
+</form>
+
+
+{% endblock %}
